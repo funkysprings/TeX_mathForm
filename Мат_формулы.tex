@@ -2,6 +2,7 @@
 \usepackage[T2A]{fontenc}
 \usepackage[utf8]{inputenc}
 \usepackage[english,russian]{babel}
+\usepackage{amsmath}
 \oddsidemargin=0pt
 \topmargin=-2cm
 \parindent=1cm
@@ -23,10 +24,43 @@
 \]
 \itemФункция Грина имеет вид
 \[
-	G(t,\tau)=
+			G(t,\tau)=
 			\begin{cases}
-				
+				\Phi(t)F\Phi^{-1}(\tau), & t\le\tau,\\
+				\Phi(t)(I+F)\Phi^{-1}(\tau), & \tau<t,
 			\end{cases}
+\]
+\\ где $F=-V^{-1}N\Phi(b)$.
+\itemСлабосходящийся ряд
+\[
+	\sum\limits_{k=0}^{\infty}e^{-k(A+iB)}=
+		\frac
+			{e^A-\cos(B)+i\sin(B)}
+			{2(\ch(A)-\cos(B))}
+\]
+\itemВыборочный множественный коэффициент корреляции
+\[
+	\hat R_{yx}^2=1-\frac{\det R}{\left| R\right|_{00}}=
+		\begin{pmatrix}
+			1 & \hat r_{yx_1} & \hat r_{yx_2} \\
+			\hat r_{x_1y} & 1 & \hat r_{x_1x_2} \\
+			\hat r_{x_2y} & \hat r_{x_2x_1} & 1
+		\end{pmatrix}
+\]
+\item
+\[
+	
+\]
+%\item
+%\[
+	
+%\]
+\itemФормула
+\[
+		f(x,y,\alpha, \beta) =
+		 	\frac
+				{\sum \limits_{n=1}^{\infty}A_n \cos \left( \frac{2 n \pi x}{\nu} \right)}
+			 	{\prod \mathcal{F} {g(x,y)} } 
 \]
 \end{enumerate}
 \end{document}
