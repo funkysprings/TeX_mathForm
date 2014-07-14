@@ -40,21 +40,31 @@
 \]
 \itemВыборочный множественный коэффициент корреляции
 \[
-	\hat R_{yx}^2=1-\frac{\det R}{\left| R\right|_{00}}=
+	\widehat R_{yx}^2=1-\frac{\det R}{\left| R\right|_{00}}=
 		\begin{pmatrix}
 			1 & \hat r_{yx_1} & \hat r_{yx_2} \\
 			\hat r_{x_1y} & 1 & \hat r_{x_1x_2} \\
 			\hat r_{x_2y} & \hat r_{x_2x_1} & 1
 		\end{pmatrix}
 \]
+\itemКоэффициент корреляции Спирмена
+\[
+	r^c=1-\frac
+		{6\sum\limits_{i=1}^{n}d_i^2}
+		{n(n^2-1)}
+\]
+\itemХарактеристика $\chi^2$
+\[
+	C=\left[ 
+		\frac
+			{\chi_{ct}^2}
+			{n\cdot \min(m_1-1,m_2-1)}
+	    \right]^{\frac{1}{2}}
+\]
 \item
 \[
 	
 \]
-%\item
-%\[
-	
-%\]
 \itemФормула
 \[
 		f(x,y,\alpha, \beta) =
