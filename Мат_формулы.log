@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.7.10)  14 JUL 2014 13:35
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.7.10)  14 JUL 2014 13:49
 entering extended mode
 **H:/MikTeX_ex/MathForm/Мат_формулы.tex
 (H:/MikTeX_ex/MathForm/Мат_формулы.tex
@@ -548,24 +548,25 @@ LaTeX Font Info:    ... okay on input line 14.
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] (H:\MikTeX_ex\MathForm\М
 ат_формулы.aux) ) 
 Here is how much of TeX's memory you used:
- 2059 strings out of 493921
- 21005 string characters out of 3154506
- 76250 words of memory out of 3000000
- 5367 multiletter control sequences out of 15000+200000
- 9485 words of font info for 29 fonts, out of 3000000 for 9000
+ 2061 strings out of 493921
+ 21026 string characters out of 3154506
+ 77250 words of memory out of 3000000
+ 5368 multiletter control sequences out of 15000+200000
+ 10289 words of font info for 30 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  27i,8n,24p,257b,200s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\777\AppData\Local\MiKTeX\2.9\fonts\pk\ljfo
-ur\lh\lh-t2a\dpi600\larm1095.pk> <C:\Users\777\AppData\Local\MiKTeX\2.9\fonts\p
-k\ljfour\lh\lh-t2a\dpi600\labx1440.pk><H:/MiKTeX/fonts/type1/public/amsfonts/cm
-/cmex10.pfb><H:/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><H:/MiKTeX/fon
-ts/type1/public/amsfonts/cm/cmmi8.pfb><H:/MiKTeX/fonts/type1/public/amsfonts/cm
-/cmr10.pfb><H:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><H:/MiKTeX/fonts/
-type1/public/amsfonts/cm/cmr8.pfb><H:/MiKTeX/fonts/type1/public/amsfonts/cm/cms
-y10.pfb><H:/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on Мат_формулы.pdf (1 page, 106483 bytes).
+ur\lh\lh-t2a\dpi600\larm0600.pk> <C:\Users\777\AppData\Local\MiKTeX\2.9\fonts\p
+k\ljfour\lh\lh-t2a\dpi600\larm1095.pk> <C:\Users\777\AppData\Local\MiKTeX\2.9\f
+onts\pk\ljfour\lh\lh-t2a\dpi600\labx1440.pk><H:/MiKTeX/fonts/type1/public/amsfo
+nts/cm/cmex10.pfb><H:/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><H:/MiKT
+eX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><H:/MiKTeX/fonts/type1/public/amsfo
+nts/cm/cmr10.pfb><H:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><H:/MiKTeX/
+fonts/type1/public/amsfonts/cm/cmr8.pfb><H:/MiKTeX/fonts/type1/public/amsfonts/
+cm/cmsy10.pfb><H:/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on Мат_формулы.pdf (1 page, 109426 bytes).
 PDF statistics:
- 106 PDF objects out of 1000 (max. 8388607)
+ 114 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
